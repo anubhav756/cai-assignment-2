@@ -1,0 +1,11 @@
+pypdf
+sentence-transformers
+faiss-cpu
+rank_bm25
+transformers
+streamlit
+nltk
+requests
+beautifulsoup4
+scikit-learn
+numpy
